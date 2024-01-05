@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paper_Stone_Secer", "Paper_Stone_Secer.csproj", "{93D4B35A-F1B1-4EEC-9CD1-BD2D7D63F284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D4B35A-F1B1-4EEC-9CD1-BD2D7D63F284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D4B35A-F1B1-4EEC-9CD1-BD2D7D63F284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D4B35A-F1B1-4EEC-9CD1-BD2D7D63F284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D4B35A-F1B1-4EEC-9CD1-BD2D7D63F284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632EEF03-B00C-41AA-BA90-6F5585D7BC61}
+	EndGlobalSection
+EndGlobal

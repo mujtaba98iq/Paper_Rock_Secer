@@ -1,0 +1,11 @@
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.Form1.resources
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.Properties.Resources.resources
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.csproj.GenerateResource.cache
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\bin\Debug\Paper_Stone_Secer.exe.config
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\bin\Debug\Paper_Stone_Secer.exe
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\bin\Debug\Paper_Stone_Secer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.exe
+C:\Users\mujta\source\repos\C#_Disctop\Paper_Stone_Secer\obj\Debug\Paper_Stone_Secer.pdb
